@@ -1,0 +1,168 @@
+{
+  "Clinic": [
+    {
+      "id": 10,
+      "clinicName": "123",
+      "clinicInfo": "1234",
+      "location": "123",
+      "phoneNumber": "123",
+      "timings": "123",
+      "description": "123",
+      "status": "PENDING"
+    },
+    {
+      "id": 5,
+      "clinicName": "Hair clinic",
+      "clinicInfo": "hair1234",
+      "location": "Chennai",
+      "phoneNumber": "5684549823",
+      "timings": "5:30",
+      "description": "best hair clinic",
+      "status": "PENDING"
+    },
+    {
+      "id": 11,
+      "clinicName": "string",
+      "clinicInfo": "string",
+      "location": "string",
+      "phoneNumber": "string",
+      "timings": "string",
+      "description": "string",
+      "status": "PENDING"
+    },
+    {
+      "id": 12,
+      "clinicName": "poo",
+      "clinicInfo": "string",
+      "location": "string",
+      "phoneNumber": "string",
+      "timings": "string",
+      "description": "string",
+      "status": "PENDING"
+    },
+    {
+      "id": 13,
+      "clinicName": "awrawr",
+      "clinicInfo": "asdsa",
+      "location": "asdfas",
+      "phoneNumber": null,
+      "timings": "1234567",
+      "description": "arqer",
+      "status": "APPROVED"
+    },
+    {
+      "id": 14,
+      "clinicName": "wqerewr",
+      "clinicInfo": "awrqewr",
+      "location": "werewr",
+      "phoneNumber": "werewr",
+      "timings": "werewr",
+      "description": "werewr",
+      "status": "PENDING"
+    }
+  ],
+  "Department": [
+    {
+      "id": 4,
+      "departmentName": "Orthopedics",
+      "description": "Orthopedics is a medical specialty that focuses on the diagnosis, correction, prevention, and treatment of patients with skeletal deformities",
+      "status": false,
+      "departmentEmail": "ortho@dept.com"
+    },
+    {
+      "id": 5,
+      "departmentName": "Cancer",
+      "description": "A disease occur in living body, which generates  inside the body",
+      "status": false,
+      "departmentEmail": "deptface@11.com"
+    },
+    {
+      "id": 7,
+      "departmentName": "Asthama",
+      "description": "Asthama is a cure at in the back",
+      "status": false,
+      "departmentEmail": "ASTHAM@mask.com"
+    },
+    {
+      "id": 15,
+      "departmentName": "cardio",
+      "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels",
+      "status": true,
+      "departmentEmail": "cardio@dept.com"
+    }
+  ],
+  "Appointment": [
+    {
+      "id": 1,
+      "petName": "string",
+      "petAge": "string",
+      "petGender": "string",
+      "petStatus": true,
+      "parentName": "string",
+      "parentEmailId": "string",
+      "parentPhoneNumber": "string",
+      "state": "string",
+      "city": "string",
+      "country": "string",
+      "pinCode": 678980089,
+      "avatar": "string"
+    },
+    {
+      "id": 2,
+      "petName": "string",
+      "petAge": "string",
+      "petGender": "string",
+      "petStatus": true,
+      "parentName": "string",
+      "parentEmailId": "string",
+      "parentPhoneNumber": "string",
+      "state": "string",
+      "city": "string",
+      "country": "string",
+      "pinCode": 678980089,
+      "avatar": "string"
+    }
+  ],
+  "Doctors": [
+    {
+      "id": 1,
+      "userName": "thjg",
+      "firstName": "yjkuj",
+      "lastName": "ttghjh",
+      "avatar": "rfggth",
+      "department": "hjkjk",
+      "dob": "kjlkuty",
+      "gender": "hj",
+      "clinic": "hgjt",
+      "mobileNo": 189985859,
+      "email": "srtyu",
+      "address": "rtgh",
+      "city": "string",
+      "state": "us",
+      "country": "usa",
+      "shortBiography": "hiiiiiiiii",
+      "departmentId": 1,
+      "status": true
+    }
+  ],
+  "Patients": [
+    {
+      "id": 1,
+      "petName": "stringf",
+      "petAge": "string",
+      "petStatus": true,
+      "parentFName": "string",
+      "parentLName": "string",
+      "parentEmailId": "string",
+      "parentPhoneNumber": "string",
+      "breed": "string",
+      "petGender": "string",
+      "biography": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "pincode": 647686868,
+      "avatar": "string"
+    }
+  ]
+}
